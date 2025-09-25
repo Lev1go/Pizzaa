@@ -57,7 +57,7 @@ background-color: rgb(221, 103, 82);;
     color: rgb(113, 27, 12) ;
 }
 .dough {
-    padding: 50px;
+    padding: 50px 0;
     background-color: rgb(255,167,123);
 }
 .dough-container {
@@ -92,10 +92,14 @@ background-color: rgb(221, 103, 82);;
     font-size: 40px;
     color: rgb(113, 27, 12) ;
 }
+.filling-list {
+    list-style: disc;
+    margin: 50px;
+}
 
 .footer {
 padding: 10px 0;
-background-color: rgb(221, 103, 82);;
+background-color: rgb(221, 103, 82);
 }
 .footer-container {
     display: flex;
@@ -104,4 +108,8 @@ background-color: rgb(221, 103, 82);;
 }
 .footer-img {
     width: 120px;
+}
+.footer-text {
+    color: white;
+    margin-right: 30px;
 }

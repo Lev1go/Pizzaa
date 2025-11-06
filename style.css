@@ -94,7 +94,7 @@ background-color: rgb(221, 103, 82);;
 }
 .filling-list {
     list-style: disc;
-    margin: 50px;
+    margin-left: 50px;
 }
 
 .footer {

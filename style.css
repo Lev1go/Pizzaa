@@ -74,6 +74,7 @@ background-color: rgb(221, 103, 82);;
 }
 .dough-img {
     width: 550px;
+    padding-left: 50px;
 }
 .filling {
     padding: 50px 0;
@@ -89,7 +90,6 @@ background-color: rgb(221, 103, 82);;
     padding-right: 50px;
 }
 .filling-title {
-    font-size: 40px;
     color: rgb(113, 27, 12) ;
 }
 .filling-list {
